@@ -1,0 +1,21 @@
+{
+    "git.ignoreLimitWarning": true,
+    "terminal.explorerKind": "both",
+    "terminal.integrated.automationProfile.linux": {
+
+    },
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "oh-my-posh",
+        "zsh"
+    ],
+    "terminal.integrated.localEchoExcludePrograms": [
+        "vim",
+        "vi",
+        "nano",
+        "tmux",
+        "bash"
+    ]
+}
